@@ -1,6 +1,6 @@
 # keep-us
 
-Crea conserva momentos unicos con las personas que amas
+Crea y conserva momentos unicos con las personas que amas
 
 
 
